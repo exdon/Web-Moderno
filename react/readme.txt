@@ -1,0 +1,30 @@
+npm i -g create-react-app
+*modulo do node responsável por criar a versão inicial da aplicação, com bild webpack configurado.
+
+---------------------------------------------------
+
+create-react-app nomeDoProjeto
+*para criar o projeto react 
+
+--------------------------------------------------
+sugestões que o react deu...
+
+npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd exercicios
+  npm start
+
+  ----------------------------------------------------------------
